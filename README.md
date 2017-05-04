@@ -20,7 +20,7 @@ Navigate to your Sublime Text packages directory:
 If you're using Sublime Text 2, replace 3 with 2 in the paths above.
 
 Then clone this repository:
-`git clone https://github.com/karthikv/tradeship-sublime.git`.
+`git clone https://github.com/karthikv/tradeship-sublime.git ./tradeship`.
 
 ## Usage
 To run tradeship, you may either:
